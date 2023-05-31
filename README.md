@@ -1,0 +1,2 @@
+# Zippy
+Bash Zip Script
