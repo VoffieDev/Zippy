@@ -1,6 +1,9 @@
-# Zippy
-
-`zippy` is a zip script written in Bash. The CLI has options to allow zipping, zipping & encrypting as well as unzipping directories.
+<p align="center">
+  <h1 align="center"><b>Zippy</b></h1>
+  <p align="center">
+    Bash script to zip/unzip directories & files
+  </p>
+</p>
 
 ## Usage
 
